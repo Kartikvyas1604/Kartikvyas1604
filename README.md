@@ -5,19 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikvyas1604&label=Profile%20views&color=0e75b6&style=flat" alt="kartikvyas1604" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartikvyas1604" alt="kartikvyas1604" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/kartik vyas" target="blank"><img src="https://img.shields.io/twitter/follow/kartik vyas?logo=twitter&style=for-the-badge" alt="kartik vyas" /></a> </p>
-
 - 🌱 I’m currently **diving deep into Python while exploring Three.js and GSAP to craft dynamic and interactive front-end experiences.**
 
 - 📫 How to reach me **vkartik013@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kartik vyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kartik vyas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kartik vyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartik vyas" height="30" width="40" /></a>
-<a href="https://instagram.com/kartik_160405" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartik_160405" height="30" width="40" /></a>
+<a href="https://x.com/0xKartikvyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kartik vyas" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kartik-vyas-7183b8238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartik vyas" height="30" width="40" /></a>
+<a href="https://www.instagram.com/0xkartikvyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartik_160405" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
