@@ -1,7 +1,7 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Kartik Vyas</h1>
 <h3 align="center">Web3 Enthusiast | Full-Stack Dev | Exploring AI and Blockchain Synergy 🚀</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="margin-bottom: 5px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikvyas1604&label=Profile%20views&color=0e75b6&style=flat" alt="kartikvyas1604" /> </p>
 
