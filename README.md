@@ -1,4 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Kartik%20Vyas&fontSize=90&fontAlignY=35&desc=Web3%20•%20Full-Stack%20•%20Game%20Developer%20•%20AI%20Enthusiast&descAlignY=55&descSize=20&animation=twinkling)](https://github.com/kartikvyas1604)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=300&section=header&text=Kartik%20Vyas&fontSize=90&fontAlignY=35&desc=Web3%20•%20Full-Stack%20•%20Game%20Developer%20•%20AI%20Enthusiast&descAlignY=55&descSize=20&animation=twinkling)](https://github.com/kartikvyas1604)
 
 <div align="center">
 
@@ -205,6 +205,8 @@
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/kartikvyas1604)
 
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31k3wgdgopqnlfqf6avkgcam4jby&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/31k3wgdgopqnlfqf6avkgcam4jby)
+
 </div>
 
 ---
@@ -230,7 +232,7 @@ I believe that the intersection of **Web2**, **Web3**, and **AI** holds the key 
 
 ---
 
-### 🔥 **Fun Fact**
+### 💻 **Daily Coding Inspiration**
 ```javascript
 const kartik = {
     code: ["JavaScript", "TypeScript", "Python", "Rust", "Solidity"],
@@ -243,13 +245,25 @@ const kartik = {
         databases: ["MongoDB", "PostgreSQL", "Redis"],
         misc: ["Firebase", "Docker", "AWS", "Git"]
     },
-    currentFocus: "Building the future with Web3 and AI 🚀",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+    currentFocus: "Building the future with Web3 and AI 🚀"
 };
+```
+
+### 🌟 **Quote of the Day**
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+### 💡 **Daily Programming Wisdom**
+
+![Dev Quote](https://github-readme-quotes.vercel.app/api?type=horizontal&theme=dark)
+
+### 🎯 **Daily Dev Fact**
+
+![Daily Fact](https://readme-jokes.vercel.app/api?hideBorder&theme=dark&bgColor=%23000000)
 ```
 
 ---
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)](https://github.com/kartikvyas1604)
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=100&section=footer)](https://github.com/kartikvyas1604)
 
 </div>
