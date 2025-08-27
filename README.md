@@ -11,7 +11,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=kartikvyas1604&label=Profile%20Views&color=0e75b6&style=for-the-badge&abbreviated=true)](https://github.com/kartikvyas1604)
 [![GitHub followers](https://img.shields.io/github/followers/kartikvyas1604?label=Followers&style=for-the-badge&color=blue&logo=github)](https://github.com/kartikvyas1604?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/kartikvyas1604?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github)](https://github.com/kartikvyas1604)
-[![Years Badge](https://badges.pufler.dev/years/kartikvyas1604?style=for-the-badge&color=blue&logo=github)](https://badges.pufler.dev/years/kartikvyas1604)
+
 
 </div>
 
