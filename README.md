@@ -226,7 +226,6 @@ I believe that the intersection of **Web2**, **Web3**, and **AI** holds the key 
 ![Open Source Love](https://img.shields.io/badge/Open%20Source-❤️-red?style=for-the-badge&logo=heart&logoColor=white)
 ![Available for Work](https://img.shields.io/badge/Available%20for-Freelance-brightgreen?style=for-the-badge&logo=handshake&logoColor=white)
 ![Coffee Lover](https://img.shields.io/badge/Fueled%20by-☕%20Coffee-brown?style=for-the-badge&logo=coffee&logoColor=white)
-![Fitness Enthusiast](https://img.shields.io/badge/Fitness-💪%20Calisthenics-orange?style=for-the-badge&logo=strong&logoColor=white)
 
 **Interested in collaborating? Let's build something extraordinary together!**
 
