@@ -1,4 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=300&section=header&text=Kartik%20Vyas&fontSize=90&fontAlignY=35&desc=Web3%20•%20Full-Stack%20•%20Game%20Developer%20•%20AI%20Enthusiast&descAlignY=55&descSize=20&animation=twinkling)](https://github.com/kartikvyas1604)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4,12&height=300&section=header&text=Kartik%20Vyas&fontSize=90&fontAlignY=35&desc=Web3%20•%20Full-Stack%20•%20Game%20Developer%20•%20AI%20Enthusiast&descAlignY=55&descSize=20&animation=twinkling)](https://github.com/kartikvyas1604)
 
 <div align="center">
 
@@ -260,10 +260,8 @@ const kartik = {
 ### 🎯 **Daily Dev Fact**
 
 ![Daily Fact](https://readme-jokes.vercel.app/api?hideBorder&theme=dark&bgColor=%23000000)
-```
 
----
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=100&section=footer)](https://github.com/kartikvyas1604)
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4,12&height=100&section=footer)](https://github.com/kartikvyas1604)
 
 </div>
