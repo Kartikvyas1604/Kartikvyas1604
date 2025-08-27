@@ -1,8 +1,8 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Kartik%20Vyas&fontSize=90&fontAlignY=35&desc=Web3%20•%20Full-Stack%20•%20Game%20Developer%20•%20AI%20Enthusiast&descAlignY=55&descSize=20&animation=twinkling)](https://github.com/kartikvyas1604)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Kartik%20Vyas&fontSize=90&fontAlignY=35&desc=Web3%20•%20Full-Stack%20•%20Game%20Developer%20•%20AI%20Enthusiast&descAlignY=55&descSize=20&animation=twinkling)](https://github.com/kartikvyas1604)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=80&lines=Building+the+Future+with+Code+%F0%9F%9A%80;Web3+%26+Blockchain+Expert+⛓️;Unity+Game+Developer+%F0%9F%8E%AE;Full-Stack+MERN+Developer+%F0%9F%8C%90;AI+%26+Machine+Learning+Explorer+%F0%9F%A4%96;100+Projects+Challenge+Runner+%F0%9F%8E%AF)](https://github.com/kartikvyas1604)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=80&lines=Building+the+Future+with+Code+🚀;Web3+%26+Blockchain+Expert+⛓️;Unity+Game+Developer+🎮;Full-Stack+MERN+Developer+🌐;AI+%26+Machine+Learning+Explorer+🤖;100+Projects+Challenge+Runner+🎯)](https://github.com/kartikvyas1604)
 
 </div>
 
@@ -11,7 +11,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=kartikvyas1604&label=Profile%20Views&color=0e75b6&style=for-the-badge&abbreviated=true)](https://github.com/kartikvyas1604)
 [![GitHub followers](https://img.shields.io/github/followers/kartikvyas1604?label=Followers&style=for-the-badge&color=blue&logo=github)](https://github.com/kartikvyas1604?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/kartikvyas1604?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github)](https://github.com/kartikvyas1604)
-[![Years Badge](https://badges.pufler.dev/years/kartikvyas1604?style=for-the-badge&color=blue&logo=github)](https://github.com/kartikvyas1604)
+[![Years Badge](https://badges.pufler.dev/years/kartikvyas1604?style=for-the-badge&color=blue&logo=github)](https://badges.pufler.dev/years/kartikvyas1604)
 
 </div>
 
@@ -147,24 +147,25 @@
 
 ### 🔥 **GitHub Stats**
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kartikvyas1604&show_icons=true&count_private=true&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&theme=radical" alt="Kartik's GitHub Stats" />
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kartikvyas1604&layout=compact&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&theme=radical&langs_count=12" alt="Top Languages" />
+![Kartik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartikvyas1604&show_icons=true&count_private=true&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&theme=react&ring_color=00d9ff&fire=ff6b35&sideNums=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikvyas1604&layout=compact&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&theme=react&langs_count=10&card_width=445)
 
 </div>
 
 <div align="center">
 
-### ⚡ **Activity & Streak**
+### ⚡ **GitHub Streak & Activity**
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikvyas1604&theme=radical&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff" alt="GitHub Streak" />
+![GitHub Streak](https://streak-stats.demolab.com/?user=kartikvyas1604&theme=react&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff&sideNums=c9d1d9&currStreakNum=00d9ff&sideLabels=c9d1d9)
 
 </div>
 
 <div align="center">
 
-### 📈 **Contribution Graph**
+### 📈 **Contribution Activity**
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=kartikvyas1604&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&theme=react-dark" alt="Contribution Graph"/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kartikvyas1604&bg_color=0d1117&color=c9d1d9&line=00d9ff&point=00d9ff&area=true&hide_border=true&theme=react-dark&custom_title=Kartik%27s%20Contribution%20Graph)
 
 </div>
 
@@ -174,29 +175,37 @@
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kartikvyas1604&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kartikvyas1604&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)
 
 </div>
 
 <div align="center">
 
-### 📊 **Detailed Metrics**
+### 📊 **Detailed GitHub Metrics**
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kartikvyas1604&theme=github_dark" alt="Repos per Language"/>
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kartikvyas1604&theme=github_dark" alt="Most Commit Language"/>
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikvyas1604&theme=github_dark)
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kartikvyas1604&theme=github_dark" alt="Stats"/>
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kartikvyas1604&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
+</div>
+
+<div align="center">
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kartikvyas1604&theme=github_dark)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kartikvyas1604&theme=github_dark)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kartikvyas1604&theme=github_dark)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kartikvyas1604&theme=github_dark&utcOffset=5.5)
 
 </div>
 
 ---
 
-## 🎵 What I'm Currently Vibing To
+## 🎵 Currently Vibing To
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=kartikvyas1604&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/kartikvyas1604)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/kartikvyas1604)
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31k3wgdgopqnlfqf6avkgcam4jby&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/31k3wgdgopqnlfqf6avkgcam4jby)
 
 </div>
 
@@ -206,7 +215,7 @@
 
 ## 💡 Philosophy & Vision
 
-> **"Building the future, one line of code at a time"**
+> **"Building the future, one line of code at a time"** 🚀
 
 I believe that the intersection of **Web2**, **Web3**, and **AI** holds the key to revolutionary applications that will define the next decade of technology. My journey is driven by continuous learning, experimentation, and the desire to create solutions that make a real impact.
 
@@ -223,6 +232,26 @@ I believe that the intersection of **Web2**, **Web3**, and **AI** holds the key 
 
 ---
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)](https://github.com/kartikvyas1604)
+### 🔥 **Fun Fact**
+```javascript
+const kartik = {
+    code: ["JavaScript", "TypeScript", "Python", "Rust", "Solidity"],
+    askMeAbout: ["Web3", "Full-Stack", "Unity", "AI/ML", "Blockchain"],
+    technologies: {
+        frontEnd: ["React", "Next.js", "Three.js", "GSAP"],
+        backEnd: ["Node.js", "Express", "Python", "MongoDB"],
+        blockchain: ["Solana", "Ethereum", "Web3.js", "Arweave"],
+        gamedev: ["Unity", "C#", "Blender"],
+        databases: ["MongoDB", "PostgreSQL", "Redis"],
+        misc: ["Firebase", "Docker", "AWS", "Git"]
+    },
+    currentFocus: "Building the future with Web3 and AI 🚀",
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
+
+---
+
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)](https://github.com/kartikvyas1604)
 
 </div>
