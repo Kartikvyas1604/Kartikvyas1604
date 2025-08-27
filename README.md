@@ -253,13 +253,11 @@ const kartik = {
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-### 💡 **Daily Programming Wisdom**
-
-![Dev Quote](https://github-readme-quotes.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🎯 **Daily Dev Fact**
 
 ![Daily Fact](https://readme-jokes.vercel.app/api?hideBorder&theme=dark&bgColor=%23000000)
+
 
 
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4,12&height=100&section=footer)](https://github.com/kartikvyas1604)
