@@ -97,16 +97,10 @@ DeFi Protocols         ████████████████░░░
 
 <div align="center">
 
-<a href="https://github.com/Kartikvyas1604">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kartikvyas1604&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
-</a>
-<a href="https://github.com/Kartikvyas1604">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikvyas1604&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak" width="48%"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Kartikvyas1604&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikvyas1604&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 
-<a href="https://github.com/Kartikvyas1604">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartikvyas1604&bg_color=0D1117&color=FFFFFF&line=00D9FF&point=00D9FF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="98%"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartikvyas1604&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="98%"/>
 
 </div>
 
