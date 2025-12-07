@@ -355,7 +355,7 @@ const achievements = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kartik_Vyas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-vyas-7183b8238/)
 [![Twitter](https://img.shields.io/badge/Twitter-@0xKartikvyas-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0xKartikvyas)
 [![Instagram](https://img.shields.io/badge/Instagram-@0xkartikvyas-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/0xkartikvyas)
-[![Portfolio](https://img.shields.io/badge/Portfolio-kartikvyas.vercel.app-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](Kartikvyas)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kartikvyas.vercel.app-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](Kartikvyas.vercel.app)
 
 **💡 Response Time:** < 24 hours | **🌍 Timezone:** IST (UTC+5:30)
 
