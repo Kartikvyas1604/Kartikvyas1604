@@ -97,10 +97,10 @@ DeFi Protocols         ████████████████░░░
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kartikvyas1604&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikvyas1604&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kartikvyas1604&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Kartikvyas1604&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartikvyas1604&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="98%"/>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kartikvyas1604&theme=github-compact&hide_border=true&custom_title=Contribution%20Activity)
 
 </div>
 
