@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vkartik013@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0xKartikvyas)
 
-![Profile Views](https://komarev.com/ghpvc/?username=kartikvyas1604&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Kartikvyas1604&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 ---
 
@@ -97,10 +97,10 @@ DeFi Protocols         ████████████████░░░
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kartikvyas1604&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikvyas1604&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kartikvyas1604&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikvyas1604&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak" width="48%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikvyas1604&bg_color=0D1117&color=FFFFFF&line=00D9FF&point=00D9FF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartikvyas1604&bg_color=0D1117&color=FFFFFF&line=00D9FF&point=00D9FF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="98%"/>
 
 </div>
 
@@ -238,8 +238,8 @@ Mentorship Programs
 
 <sub>© 2025 Kartik Vyas • Software Engineer • Building the Future of Technology</sub>
 
-[![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square)](https://github.com/kartikvyas1604)
-[![Maintained](https://img.shields.io/badge/Maintained-Yes-success?style=flat-square)](https://github.com/kartikvyas1604)
+[![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square)](https://github.com/Kartikvyas1604)
+[![Maintained](https://img.shields.io/badge/Maintained-Yes-success?style=flat-square)](https://github.com/Kartikvyas1604)
 [![Open to Opportunities](https://img.shields.io/badge/Open%20to-Opportunities-blue?style=flat-square)](mailto:vkartik013@gmail.com)
 
 [⬆️ Back to Top](#kartik-vyas)
