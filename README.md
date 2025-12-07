@@ -2,8 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+Kartik+Vyas+%F0%9F%91%8B;Full-Stack+Developer+%7C+Blockchain+Engineer;Building+the+Future+of+Web3+%26+AI" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kartikvyas.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-vyas-7183b8238/)
 [![Email](https://img.shields.io/badge/Email-vkartik013@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vkartik013@gmail.com)
@@ -357,7 +355,7 @@ const achievements = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kartik_Vyas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-vyas-7183b8238/)
 [![Twitter](https://img.shields.io/badge/Twitter-@0xKartikvyas-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0xKartikvyas)
 [![Instagram](https://img.shields.io/badge/Instagram-@0xkartikvyas-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/0xkartikvyas)
-[![Portfolio](https://img.shields.io/badge/Portfolio-kartikvyas.vercel.app-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kartikvyas.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kartikvyas.vercel.app-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](Kartikvyas)
 
 **💡 Response Time:** < 24 hours | **🌍 Timezone:** IST (UTC+5:30)
 
