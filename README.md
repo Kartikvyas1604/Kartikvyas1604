@@ -97,10 +97,28 @@ DeFi Protocols         ████████████████░░░
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kartikvyas1604&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Kartikvyas1604&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kartikvyas1604&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikvyas1604&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kartikvyas1604&theme=github-compact&hide_border=true&custom_title=Contribution%20Activity)
+</div>
+
+<div align="center">
+  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Kartikvyas1604&theme=radical&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kartikvyas1604&bg_color=0d1117&color=ff6e96&line=ff6e96&point=ffffff&area=true&hide_border=true)
+
+</div>
+
+## 🏆 GITHUB TROPHIES
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kartikvyas1604&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
