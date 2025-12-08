@@ -19,8 +19,6 @@
 
 </div>
 
-🚀 **Software Engineer** at **Mkeen Tech Solution** | Building scalable applications for 10,000+ users
-
 💡 Specializing in **Full-Stack Development**, **Blockchain**, **Game Development** & **AI/ML**
 
 🎯 Currently working on **DeFi protocols** and **Web3 applications**
@@ -263,28 +261,6 @@ Progress: [███████████████████████
 
 </div>
 
----
-
-
-<div align="center">
-
-## 💼 Work Experience
-
-</div>
-
-### 🏢 Software Engineer | Mkeen Tech Solution
-**Full-Stack MERN Developer** | *Present*
-
-```javascript
-const achievements = {
-  scalability: "Built apps serving 10,000+ concurrent users",
-  architecture: "Designed RESTful APIs & microservices",
-  performance: "Improved app performance by 40%",
-  leadership: "Led cross-functional teams on critical features"
-};
-```
-
----
 
 <div align="center">
 
