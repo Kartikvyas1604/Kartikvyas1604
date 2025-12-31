@@ -371,4 +371,4 @@ Progress: [███████████████████████
 [![Maintained](https://img.shields.io/badge/Maintained-Yes-success?style=for-the-badge)](https://github.com/Kartikvyas1604)
 
 </div>
-<div>Happy New Year ❤️</div>
+<div align="center">Happy New Year ❤️</div>
